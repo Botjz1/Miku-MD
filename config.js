@@ -7,27 +7,27 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
+global.Owner = ['919048590211']
+global.OwnerNumber = ['919048590211']
+global.ownertag = ['919048590211']
+global.BotName = "Lisamwol"
+global.packname = "Lisamwol bot"
+global.author = "By: Hanan"
+global.OwnerName = "Hanan"
+global.BotSourceCode = "https://github.com/Botjz1/Lisamwol-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['.'] // Prefix ---  change it to anythong you want except @//
 
 
 global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://github.com/Botjz1"
 global.lolhuman = "KaysaS"
 
 
@@ -65,7 +65,7 @@ global.mess = {
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
+    waiting: 'Ippam kittum...',
     nolink: 'Please provide me *link*, Baka!',
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
